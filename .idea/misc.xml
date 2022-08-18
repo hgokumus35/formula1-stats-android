@@ -5,6 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.31153429334769983" />
         <entry key="app/src/main/res/layout/activity_main_page.xml" value="0.2985337215837133" />
+        <entry key="app/src/main/res/layout/fragment_circuits.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/fragment_drivers.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/fragment_teams.xml" value="0.24166666666666667" />
       </map>
     </option>
   </component>
