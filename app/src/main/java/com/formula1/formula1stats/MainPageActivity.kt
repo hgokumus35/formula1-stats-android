@@ -2,10 +2,8 @@ package com.formula1.formula1stats
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.core.view.get
 import com.formula1.formula1stats.databinding.ActivityMainPageBinding
 import com.google.android.material.tabs.TabLayout
-import com.google.android.material.tabs.TabLayoutMediator
 
 class MainPageActivity : AppCompatActivity() {
 
