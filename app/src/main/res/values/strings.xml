@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Formula 1 Stats</string>
     <string name="proceed_to_the_app_text"><i>Proceed to the app</i></string>
+
+    <string name="drivers">Drivers</string>
+    <string name="teams">Teams</string>
+    <string name="circuits">Circuits</string>
 </resources>
